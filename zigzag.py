@@ -1,5 +1,5 @@
 
-# Automate the boring stuff. Chapter 3 - Functions
+# Automate the Boring Stuff With Python. Chapter 3 - Functions
 
 import time, sys
 indent = 0 # How many spaces to indent.
