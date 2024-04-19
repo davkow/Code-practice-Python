@@ -5,5 +5,5 @@
   - [Conwway's Game of Life (lists)](conway.py) 
 
 - LinkedIn Learning: Python Practice: Real-World Coding Challenges
-  - [Extending the scribe](extending_the_scribe.py)
+  - [Extending the scribe (basic data types and structures, control flow, functions, and classes and objects) ](extending_the_scribe.py)
 
