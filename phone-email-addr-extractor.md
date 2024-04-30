@@ -3,5 +3,4 @@ Pattern matching with regular expressions: concepts, project outline, and writin
 
 
 **To do**:<br> 
-Create my own repo. When finished, it should be similar to what is included in this repo on GitHub
-[Phone-Number-and-Email-Address-Extractor](https://github.com/SLakhani1/Phone-Number-and-Email-Address-Extractor)
+Create my own repo. When finished, it should be similar to what is included in this repo on GitHub: [Phone-Number-and-Email-Address-Extractor](https://github.com/SLakhani1/Phone-Number-and-Email-Address-Extractor)
